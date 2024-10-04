@@ -1,0 +1,8 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgb(0,231,255);
+  background: radial-gradient(circle, rgba(0,231,255,1) 50%, rgba(54,0,228,1) 100%);
+}
